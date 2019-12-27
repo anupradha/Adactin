@@ -1,0 +1,29 @@
+package com.adactin.helper;
+
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.util.Properties;
+
+public class ConfigurationReader {
+	public static Properties ps;
+
+	public ConfigurationReader() throws IOException {
+		File f = new File("C:\\Users\\Admin\\eclipse-workspace_project\\AdactinCucumber\\src\\test\\java\\com\\adactin\\properties\\Configuration.properties");
+		FileInputStream fis = new FileInputStream(f);
+		ps = new Properties();
+		ps.load(fis);
+
+	}
+
+	public static String browsername() {
+		String browser = ps.getProperty("browserName");
+		return browser;
+	}
+
+	public static String geturl() {
+		String url = ps.getProperty("url");
+		return url;
+
+	}
+}
