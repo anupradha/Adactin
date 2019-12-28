@@ -15,7 +15,7 @@ import cucumber.api.junit.Cucumber;
 @CucumberOptions(features = "src\\test\\java\\com\\adactin\\feature", 
 					glue = "com\\adactin\\stepdefinition", 
 					plugin = {"com.cucumber.listener.ExtentCucumberFormatter:Report/reports.html",
-							"json:cucumber_reports.html","html:Report" },
+							"json:cucumber_reports.json","html:Report" },
 					monochrome = true, 
 					dryRun = false, 
 					strict = true)
