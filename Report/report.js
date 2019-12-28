@@ -82,7 +82,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 736300,
+  "duration": 952900,
   "status": "passed"
 });
 formatter.background({
@@ -106,14 +106,14 @@ formatter.match({
   "location": "ALogin_StepDefinition.the_user_is_logged_in_the_application()"
 });
 formatter.result({
-  "duration": 156206200,
+  "duration": 146962900,
   "status": "passed"
 });
 formatter.match({
   "location": "ALogin_StepDefinition.goes_to_landing_page()"
 });
 formatter.result({
-  "duration": 408300,
+  "duration": 70200,
   "status": "passed"
 });
 formatter.scenario({
@@ -160,7 +160,7 @@ formatter.match({
   "location": "ALogin_StepDefinition.user_enter_application_url()"
 });
 formatter.result({
-  "duration": 5658055500,
+  "duration": 6411674500,
   "status": "passed"
 });
 formatter.match({
@@ -173,7 +173,7 @@ formatter.match({
   "location": "ALogin_StepDefinition.user_enter_as_username(String)"
 });
 formatter.result({
-  "duration": 231087200,
+  "duration": 246606400,
   "status": "passed"
 });
 formatter.match({
@@ -186,22 +186,22 @@ formatter.match({
   "location": "ALogin_StepDefinition.user_enter_as_password(String)"
 });
 formatter.result({
-  "duration": 132306700,
+  "duration": 156569400,
   "status": "passed"
 });
 formatter.match({
   "location": "ALogin_StepDefinition.user_verify_the_username_in_the_homepage()"
 });
 formatter.result({
-  "duration": 1494399800,
+  "duration": 7065334200,
   "status": "passed"
 });
 formatter.after({
-  "duration": 211600,
+  "duration": 174600,
   "status": "passed"
 });
 formatter.before({
-  "duration": 73100,
+  "duration": 81000,
   "status": "passed"
 });
 formatter.background({
@@ -225,14 +225,14 @@ formatter.match({
   "location": "ALogin_StepDefinition.the_user_is_logged_in_the_application()"
 });
 formatter.result({
-  "duration": 115700,
+  "duration": 78900,
   "status": "passed"
 });
 formatter.match({
   "location": "ALogin_StepDefinition.goes_to_landing_page()"
 });
 formatter.result({
-  "duration": 56900,
+  "duration": 64100,
   "status": "passed"
 });
 formatter.scenario({
@@ -279,7 +279,7 @@ formatter.match({
   "location": "ALogin_StepDefinition.user_enter_application_url()"
 });
 formatter.result({
-  "duration": 524106000,
+  "duration": 591208500,
   "status": "passed"
 });
 formatter.match({
@@ -292,7 +292,7 @@ formatter.match({
   "location": "ALogin_StepDefinition.user_enter_as_username(String)"
 });
 formatter.result({
-  "duration": 137570800,
+  "duration": 192963100,
   "status": "passed"
 });
 formatter.match({
@@ -305,22 +305,22 @@ formatter.match({
   "location": "ALogin_StepDefinition.user_enter_as_password(String)"
 });
 formatter.result({
-  "duration": 110944900,
+  "duration": 157738400,
   "status": "passed"
 });
 formatter.match({
   "location": "ALogin_StepDefinition.user_verify_the_username_in_the_homepage()"
 });
 formatter.result({
-  "duration": 1065314000,
+  "duration": 1310864500,
   "status": "passed"
 });
 formatter.after({
-  "duration": 97100,
+  "duration": 83700,
   "status": "passed"
 });
 formatter.before({
-  "duration": 87100,
+  "duration": 75900,
   "status": "passed"
 });
 formatter.background({
@@ -344,14 +344,14 @@ formatter.match({
   "location": "ALogin_StepDefinition.the_user_is_logged_in_the_application()"
 });
 formatter.result({
-  "duration": 72200,
+  "duration": 77300,
   "status": "passed"
 });
 formatter.match({
   "location": "ALogin_StepDefinition.goes_to_landing_page()"
 });
 formatter.result({
-  "duration": 91200,
+  "duration": 109700,
   "status": "passed"
 });
 formatter.scenario({
@@ -398,7 +398,7 @@ formatter.match({
   "location": "ALogin_StepDefinition.user_enter_application_url()"
 });
 formatter.result({
-  "duration": 614896600,
+  "duration": 495998200,
   "status": "passed"
 });
 formatter.match({
@@ -411,7 +411,7 @@ formatter.match({
   "location": "ALogin_StepDefinition.user_enter_as_username(String)"
 });
 formatter.result({
-  "duration": 131535200,
+  "duration": 281286400,
   "status": "passed"
 });
 formatter.match({
@@ -424,22 +424,22 @@ formatter.match({
   "location": "ALogin_StepDefinition.user_enter_as_password(String)"
 });
 formatter.result({
-  "duration": 138363500,
+  "duration": 259879200,
   "status": "passed"
 });
 formatter.match({
   "location": "ALogin_StepDefinition.user_verify_the_username_in_the_homepage()"
 });
 formatter.result({
-  "duration": 1168840900,
+  "duration": 6214942900,
   "status": "passed"
 });
 formatter.after({
-  "duration": 98600,
+  "duration": 113500,
   "status": "passed"
 });
 formatter.before({
-  "duration": 107700,
+  "duration": 146800,
   "status": "passed"
 });
 formatter.background({
@@ -463,14 +463,14 @@ formatter.match({
   "location": "ALogin_StepDefinition.the_user_is_logged_in_the_application()"
 });
 formatter.result({
-  "duration": 211800,
+  "duration": 91100,
   "status": "passed"
 });
 formatter.match({
   "location": "ALogin_StepDefinition.goes_to_landing_page()"
 });
 formatter.result({
-  "duration": 69400,
+  "duration": 67200,
   "status": "passed"
 });
 formatter.scenario({
@@ -536,71 +536,71 @@ formatter.match({
   "location": "BSearchHotel_StepDefinition.user_enter_valid_location()"
 });
 formatter.result({
-  "duration": 296820400,
+  "duration": 333322700,
   "status": "passed"
 });
 formatter.match({
   "location": "BSearchHotel_StepDefinition.user_enter_valid_hotel()"
 });
 formatter.result({
-  "duration": 156493700,
+  "duration": 201382800,
   "status": "passed"
 });
 formatter.match({
   "location": "BSearchHotel_StepDefinition.user_enter_valid_roomtype()"
 });
 formatter.result({
-  "duration": 144578300,
+  "duration": 327517900,
   "status": "passed"
 });
 formatter.match({
   "location": "BSearchHotel_StepDefinition.user_enter_valid_norooms()"
 });
 formatter.result({
-  "duration": 165922500,
+  "duration": 261166500,
   "status": "passed"
 });
 formatter.match({
   "location": "BSearchHotel_StepDefinition.user_enter_valid_checkin()"
 });
 formatter.result({
-  "duration": 213011800,
+  "duration": 505455300,
   "status": "passed"
 });
 formatter.match({
   "location": "BSearchHotel_StepDefinition.user_enter_valid_checkout()"
 });
 formatter.result({
-  "duration": 185547000,
+  "duration": 255320200,
   "status": "passed"
 });
 formatter.match({
   "location": "BSearchHotel_StepDefinition.user_enter_valid_adultroom()"
 });
 formatter.result({
-  "duration": 164495300,
+  "duration": 190349000,
   "status": "passed"
 });
 formatter.match({
   "location": "BSearchHotel_StepDefinition.user_enter_valid_children()"
 });
 formatter.result({
-  "duration": 227403800,
+  "duration": 251108700,
   "status": "passed"
 });
 formatter.match({
   "location": "BSearchHotel_StepDefinition.user_select_valid_selectbtn()"
 });
 formatter.result({
-  "duration": 1773796300,
+  "duration": 5148016000,
   "status": "passed"
 });
 formatter.after({
-  "duration": 76400,
+  "duration": 246900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 71000,
+  "duration": 261500,
   "status": "passed"
 });
 formatter.background({
@@ -624,14 +624,14 @@ formatter.match({
   "location": "ALogin_StepDefinition.the_user_is_logged_in_the_application()"
 });
 formatter.result({
-  "duration": 558000,
+  "duration": 444500,
   "status": "passed"
 });
 formatter.match({
   "location": "ALogin_StepDefinition.goes_to_landing_page()"
 });
 formatter.result({
-  "duration": 61400,
+  "duration": 205900,
   "status": "passed"
 });
 formatter.scenario({
@@ -662,22 +662,22 @@ formatter.match({
   "location": "CBookingPage_StepDefinition.user_select_valid_selectbn()"
 });
 formatter.result({
-  "duration": 98231400,
-  "status": "passed"
+  "duration": 142093900,
+  "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//input[@id\u003d\"radiobutton_0\"]\"}\n  (Session info: chrome\u003d79.0.3945.88)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027DESKTOP-FKL6C47\u0027, ip: \u0027192.168.173.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_231\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.88, chrome: {chromedriverVersion: 78.0.3904.105 (60e2d8774a81..., userDataDir: C:\\Users\\Admin\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54866}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}\nSession ID: 3446017bbe0dd0bc621ec92da5edc321\n*** Element info: {Using\u003dxpath, value\u003d//input[@id\u003d\"radiobutton_0\"]}\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)\r\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\r\n\tat org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)\r\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)\r\n\tat com.sun.proxy.$Proxy20.click(Unknown Source)\r\n\tat com.adactin.baseclass.BaseClass.clickOnElement(BaseClass.java:80)\r\n\tat com.adactin.stepdefinition.CBookingPage_StepDefinition.user_select_valid_selectbn(CBookingPage_StepDefinition.java:21)\r\n\tat ✽.When user select valid selectbn(AdactinProject.feature:34)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "CBookingPage_StepDefinition.user_verify_the_click_the_selecthotelpage()"
 });
 formatter.result({
-  "duration": 1498976100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.after({
-  "duration": 67400,
+  "duration": 1146212500,
   "status": "passed"
 });
 formatter.before({
-  "duration": 66400,
+  "duration": 71500,
   "status": "passed"
 });
 formatter.background({
@@ -701,14 +701,14 @@ formatter.match({
   "location": "ALogin_StepDefinition.the_user_is_logged_in_the_application()"
 });
 formatter.result({
-  "duration": 64700,
+  "duration": 250500,
   "status": "passed"
 });
 formatter.match({
   "location": "ALogin_StepDefinition.goes_to_landing_page()"
 });
 formatter.result({
-  "duration": 69000,
+  "duration": 151200,
   "status": "passed"
 });
 formatter.scenario({
@@ -779,74 +779,66 @@ formatter.match({
   "location": "DConfirmationPage_StepDefinition.user_enter_valid_firstname()"
 });
 formatter.result({
-  "duration": 119204300,
-  "status": "passed"
+  "duration": 33930500,
+  "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//input[@id\u003d\u0027first_name\u0027]\"}\n  (Session info: chrome\u003d79.0.3945.88)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027DESKTOP-FKL6C47\u0027, ip: \u0027192.168.173.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_231\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.88, chrome: {chromedriverVersion: 78.0.3904.105 (60e2d8774a81..., userDataDir: C:\\Users\\Admin\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54866}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}\nSession ID: 3446017bbe0dd0bc621ec92da5edc321\n*** Element info: {Using\u003dxpath, value\u003d//input[@id\u003d\u0027first_name\u0027]}\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)\r\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\r\n\tat org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)\r\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)\r\n\tat com.sun.proxy.$Proxy20.sendKeys(Unknown Source)\r\n\tat com.adactin.baseclass.BaseClass.inputOnElement(BaseClass.java:76)\r\n\tat com.adactin.stepdefinition.DConfirmationPage_StepDefinition.user_enter_valid_firstname(DConfirmationPage_StepDefinition.java:22)\r\n\tat ✽.When user enter valid firstname(AdactinProject.feature:39)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "DConfirmationPage_StepDefinition.user_enter_valid_Lastname()"
 });
 formatter.result({
-  "duration": 101180200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "DConfirmationPage_StepDefinition.user_enter_valid_Address()"
 });
 formatter.result({
-  "duration": 152056100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "DConfirmationPage_StepDefinition.user_enter_valid_Creditno()"
 });
 formatter.result({
-  "duration": 214724600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "DConfirmationPage_StepDefinition.user_enter_valid_Cardtype()"
 });
 formatter.result({
-  "duration": 168662900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "DConfirmationPage_StepDefinition.user_enter_valid_Selectmonth()"
 });
 formatter.result({
-  "duration": 169815900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "DConfirmationPage_StepDefinition.user_enter_valid_Selectyear()"
 });
 formatter.result({
-  "duration": 162065200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "DConfirmationPage_StepDefinition.user_enter_valid_Ccvno()"
 });
 formatter.result({
-  "duration": 97510300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "DConfirmationPage_StepDefinition.user_verify_the_booknow_in_the_Paymentpage()"
 });
 formatter.result({
-  "duration": 8100922500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "DConfirmationPage_StepDefinition.user_click_the_logoutbtn()"
 });
 formatter.result({
-  "duration": 952010700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.after({
-  "duration": 75200,
+  "duration": 632863300,
   "status": "passed"
 });
 });
